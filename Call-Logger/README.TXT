@@ -1,0 +1,1 @@
+Run 'Call-Logger Inst Program.exe' to install the executable of Call Logger
